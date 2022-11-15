@@ -28,3 +28,5 @@ A Modern Warfare 2019 Weapon Pack for Counter Strike Mobile Offensive Source
 - Viper
 - Infinity Ward
 - Activision 
+- AidenZapper
+- Nekyo-ko | 8fps
